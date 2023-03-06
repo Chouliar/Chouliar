@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chouliar
-- 👀 I’m interested in Programming and DIY  
+- 👀 I’m interested in Programming and DIY Projects 
 - 🌱 Graduate of the Department of Electrical and Computer Engineering at University of Thessaly (ECCE)  
 - 💞️ Open to collaborations 
 - 📫 How to reach me chouliar@gmail.com
