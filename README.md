@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chouliar
 - 👀 I’m interested in Programming and DIY  
-- 🌱 I’m currently studying Computer Engineering at University of Thessaly (ECCE)  
+- 🌱 Graduate of the Department of Electrical and Computer Engineering at University of Thessaly (ECCE)  
 - 💞️ I’m looking to collaborate with anyone who might intringue me 
 - 📫 How to reach me chouliar@gmail.com
 
